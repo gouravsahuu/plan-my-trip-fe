@@ -1,0 +1,7 @@
+.navbar{
+    display: flex;
+    background-color: pink;
+    justify-content: space-evenly;
+    font-size: 18px;
+    font-weight: bold;
+}
